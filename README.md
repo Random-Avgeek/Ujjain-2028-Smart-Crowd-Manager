@@ -1,3 +1,21 @@
+# 🛸 Simhastha Ujjain Predictive Transit Command Center
+
+An enterprise-grade real-time crowd dynamics and traffic routing dashboard built for the multi-million scale Ujjain Simhastha Mahakumbh. The application shifts transit management from reactive observation to proactive algorithmic mitigation.
+
+## 🌟 Core Technical Highlights
+
+* **Live Traffic Telemetry Integration:** Mounts an active vector-based `google.maps.TrafficLayer` over a customized, high-contrast dark municipal command canvas to monitor vehicular friction grids in real time.
+* **Historical Matrix Parsing Engine:** Features a dedicated data pipe (`compile_dataset.py`) that preprocesses and digests 6 discrete sub-sections of historical crowd records across multiple transit cycles.
+* **Domain-Aware Algorithmic Rerouting:** Leverages on-ground geographic constraints—specifically tracking the narrow bottleneck of the Harsiddhi Mata Temple Square and the physical displacement between the Mahakal Corridor and the Kshipra River banks.
+* **Cognitive SLM Evaluation Feed:** Evaluates localized Volume-to-Capacity Ratios (VFR) and Time-To-Decline (TTD) metrics to override traditional short-path mapping, automatically throwing neon-red pulsing bypass vectors (`b1_outer_ring_diversion`) onto the live map when gridlock thresholds breach 1.25 VFR.
+
+## 🛠️ The Tech Stack
+
+* **Frontend:** React (Vite), TypeScript, Tailwind CSS
+* **Geospatial SDK:** Google Maps JavaScript API via `@googlemaps/react-wrapper`
+* **Data Processing:** Python (Pandas), JSON Schema Compilation
+* **Deployment System:** Fully compiled production asset optimized for immediate cloud hosting
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
