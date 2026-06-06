@@ -1,0 +1,670 @@
+{
+  "visitors": [
+    {
+      "Year": 1989,
+      "Location": "Prayagraj",
+      "Domestic_Visitors": 15828063,
+      "International_Visitors": 126989,
+      "Avg_Spending_Per_Visitor": 2798,
+      "Total_Revenue_Generated": 3782839185
+    },
+    {
+      "Year": 2001,
+      "Location": "Prayagraj",
+      "Domestic_Visitors": 36992879,
+      "International_Visitors": 222072,
+      "Avg_Spending_Per_Visitor": 2972,
+      "Total_Revenue_Generated": 4731670957
+    },
+    {
+      "Year": 2013,
+      "Location": "Prayagraj",
+      "Domestic_Visitors": 5276635,
+      "International_Visitors": 222256,
+      "Avg_Spending_Per_Visitor": 1667,
+      "Total_Revenue_Generated": 4805996241
+    },
+    {
+      "Year": 2025,
+      "Location": "Prayagraj",
+      "Domestic_Visitors": 38881935,
+      "International_Visitors": 461376,
+      "Avg_Spending_Per_Visitor": 978,
+      "Total_Revenue_Generated": 2134509452
+    },
+    {
+      "Year": 1986,
+      "Location": "Haridwar",
+      "Domestic_Visitors": 48483572,
+      "International_Visitors": 416405,
+      "Avg_Spending_Per_Visitor": 2065,
+      "Total_Revenue_Generated": 2311910899
+    },
+    {
+      "Year": 1998,
+      "Location": "Haridwar",
+      "Domestic_Visitors": 39738476,
+      "International_Visitors": 87058,
+      "Avg_Spending_Per_Visitor": 4117,
+      "Total_Revenue_Generated": 1641918658
+    },
+    {
+      "Year": 2010,
+      "Location": "Haridwar",
+      "Domestic_Visitors": 9770209,
+      "International_Visitors": 348820,
+      "Avg_Spending_Per_Visitor": 1680,
+      "Total_Revenue_Generated": 1852525065
+    },
+    {
+      "Year": 2022,
+      "Location": "Haridwar",
+      "Domestic_Visitors": 39238944,
+      "International_Visitors": 486194,
+      "Avg_Spending_Per_Visitor": 3446,
+      "Total_Revenue_Generated": 1800811355
+    },
+    {
+      "Year": 1980,
+      "Location": "Nashik",
+      "Domestic_Visitors": 7942753,
+      "International_Visitors": 432166,
+      "Avg_Spending_Per_Visitor": 4475,
+      "Total_Revenue_Generated": 2979098159
+    },
+    {
+      "Year": 1992,
+      "Location": "Nashik",
+      "Domestic_Visitors": 18645685,
+      "International_Visitors": 178678,
+      "Avg_Spending_Per_Visitor": 4573,
+      "Total_Revenue_Generated": 653726276
+    },
+    {
+      "Year": 2003,
+      "Location": "Nashik",
+      "Domestic_Visitors": 21628543,
+      "International_Visitors": 398130,
+      "Avg_Spending_Per_Visitor": 3057,
+      "Total_Revenue_Generated": 3236628950
+    },
+    {
+      "Year": 2015,
+      "Location": "Nashik",
+      "Domestic_Visitors": 29211042,
+      "International_Visitors": 498522,
+      "Avg_Spending_Per_Visitor": 4516,
+      "Total_Revenue_Generated": 1922680393
+    },
+    {
+      "Year": 1982,
+      "Location": "Ujjain",
+      "Domestic_Visitors": 26663228,
+      "International_Visitors": 478735,
+      "Avg_Spending_Per_Visitor": 4584,
+      "Total_Revenue_Generated": 2186585198
+    },
+    {
+      "Year": 1994,
+      "Location": "Ujjain",
+      "Domestic_Visitors": 18537196,
+      "International_Visitors": 171089,
+      "Avg_Spending_Per_Visitor": 3868,
+      "Total_Revenue_Generated": 1207611277
+    },
+    {
+      "Year": 2004,
+      "Location": "Ujjain",
+      "Domestic_Visitors": 12160567,
+      "International_Visitors": 323974,
+      "Avg_Spending_Per_Visitor": 4893,
+      "Total_Revenue_Generated": 4413238926
+    },
+    {
+      "Year": 2016,
+      "Location": "Ujjain",
+      "Domestic_Visitors": 20690798,
+      "International_Visitors": 70293,
+      "Avg_Spending_Per_Visitor": 4226,
+      "Total_Revenue_Generated": 3527484541
+    }
+  ],
+  "revenue": [
+    {
+      "Year": 1989,
+      "Location": "Prayagraj",
+      "Hotel_Revenue": 934011097,
+      "Transport_Revenue": 290168137,
+      "Local_Business_Revenue": 1277570338,
+      "Donations_Received": 98896861
+    },
+    {
+      "Year": 2001,
+      "Location": "Prayagraj",
+      "Hotel_Revenue": 849504703,
+      "Transport_Revenue": 157639019,
+      "Local_Business_Revenue": 925262078,
+      "Donations_Received": 74372930
+    },
+    {
+      "Year": 2013,
+      "Location": "Prayagraj",
+      "Hotel_Revenue": 996472516,
+      "Transport_Revenue": 110039416,
+      "Local_Business_Revenue": 253996451,
+      "Donations_Received": 40574483
+    },
+    {
+      "Year": 2025,
+      "Location": "Prayagraj",
+      "Hotel_Revenue": 271440201,
+      "Transport_Revenue": 476239460,
+      "Local_Business_Revenue": 1498598872,
+      "Donations_Received": 82769926
+    },
+    {
+      "Year": 1986,
+      "Location": "Haridwar",
+      "Hotel_Revenue": 291091285,
+      "Transport_Revenue": 156161128,
+      "Local_Business_Revenue": 595849280,
+      "Donations_Received": 63401091
+    },
+    {
+      "Year": 1998,
+      "Location": "Haridwar",
+      "Hotel_Revenue": 455782885,
+      "Transport_Revenue": 269341859,
+      "Local_Business_Revenue": 1296724028,
+      "Donations_Received": 52542041
+    },
+    {
+      "Year": 2010,
+      "Location": "Haridwar",
+      "Hotel_Revenue": 652439548,
+      "Transport_Revenue": 283034103,
+      "Local_Business_Revenue": 860189559,
+      "Donations_Received": 60125276
+    },
+    {
+      "Year": 2022,
+      "Location": "Haridwar",
+      "Hotel_Revenue": 314978111,
+      "Transport_Revenue": 115498674,
+      "Local_Business_Revenue": 1566186208,
+      "Donations_Received": 16792959
+    },
+    {
+      "Year": 1980,
+      "Location": "Nashik",
+      "Hotel_Revenue": 556000858,
+      "Transport_Revenue": 463745874,
+      "Local_Business_Revenue": 393653367,
+      "Donations_Received": 20121846
+    },
+    {
+      "Year": 1992,
+      "Location": "Nashik",
+      "Hotel_Revenue": 695840702,
+      "Transport_Revenue": 212080527,
+      "Local_Business_Revenue": 1755602952,
+      "Donations_Received": 58854047
+    },
+    {
+      "Year": 2003,
+      "Location": "Nashik",
+      "Hotel_Revenue": 184246345,
+      "Transport_Revenue": 174274213,
+      "Local_Business_Revenue": 961401872,
+      "Donations_Received": 92571972
+    },
+    {
+      "Year": 2015,
+      "Location": "Nashik",
+      "Hotel_Revenue": 799356717,
+      "Transport_Revenue": 56361889,
+      "Local_Business_Revenue": 340001956,
+      "Donations_Received": 12172502
+    },
+    {
+      "Year": 1982,
+      "Location": "Ujjain",
+      "Hotel_Revenue": 724862049,
+      "Transport_Revenue": 479127563,
+      "Local_Business_Revenue": 1282641465,
+      "Donations_Received": 81877424
+    },
+    {
+      "Year": 1994,
+      "Location": "Ujjain",
+      "Hotel_Revenue": 998282277,
+      "Transport_Revenue": 327854318,
+      "Local_Business_Revenue": 1973620054,
+      "Donations_Received": 69539649
+    },
+    {
+      "Year": 2004,
+      "Location": "Ujjain",
+      "Hotel_Revenue": 494727850,
+      "Transport_Revenue": 315373654,
+      "Local_Business_Revenue": 1426999087,
+      "Donations_Received": 41070665
+    },
+    {
+      "Year": 2016,
+      "Location": "Ujjain",
+      "Hotel_Revenue": 810102268,
+      "Transport_Revenue": 230362879,
+      "Local_Business_Revenue": 1818143269,
+      "Donations_Received": 47750613
+    }
+  ],
+  "environment": [
+    {
+      "Year": 1989,
+      "Location": "Prayagraj",
+      "Water_Quality_Index": 82.62649875491563,
+      "Waste_Generated_Tons": 1577,
+      "Air_Pollution_Level": 113.9319530510271
+    },
+    {
+      "Year": 2001,
+      "Location": "Prayagraj",
+      "Water_Quality_Index": 81.18926946188527,
+      "Waste_Generated_Tons": 1495,
+      "Air_Pollution_Level": 165.8778197164075
+    },
+    {
+      "Year": 2013,
+      "Location": "Prayagraj",
+      "Water_Quality_Index": 68.38736439288623,
+      "Waste_Generated_Tons": 4797,
+      "Air_Pollution_Level": 177.9200099865452
+    },
+    {
+      "Year": 2025,
+      "Location": "Prayagraj",
+      "Water_Quality_Index": 40.04612772063138,
+      "Waste_Generated_Tons": 2628,
+      "Air_Pollution_Level": 105.7864694257202
+    },
+    {
+      "Year": 1986,
+      "Location": "Haridwar",
+      "Water_Quality_Index": 41.23431978890561,
+      "Waste_Generated_Tons": 957,
+      "Air_Pollution_Level": 136.9856377342733
+    },
+    {
+      "Year": 1998,
+      "Location": "Haridwar",
+      "Water_Quality_Index": 46.48947928898286,
+      "Waste_Generated_Tons": 1702,
+      "Air_Pollution_Level": 149.4744403764705
+    },
+    {
+      "Year": 2010,
+      "Location": "Haridwar",
+      "Water_Quality_Index": 44.60052317427818,
+      "Waste_Generated_Tons": 1502,
+      "Air_Pollution_Level": 99.50012159336043
+    },
+    {
+      "Year": 2022,
+      "Location": "Haridwar",
+      "Water_Quality_Index": 80.68130865873037,
+      "Waste_Generated_Tons": 2892,
+      "Air_Pollution_Level": 76.44241664875348
+    },
+    {
+      "Year": 1980,
+      "Location": "Nashik",
+      "Water_Quality_Index": 31.70643634758195,
+      "Waste_Generated_Tons": 4869,
+      "Air_Pollution_Level": 154.2322045345232
+    },
+    {
+      "Year": 1992,
+      "Location": "Nashik",
+      "Water_Quality_Index": 51.47562577002178,
+      "Waste_Generated_Tons": 2280,
+      "Air_Pollution_Level": 93.02636229211606
+    },
+    {
+      "Year": 2003,
+      "Location": "Nashik",
+      "Water_Quality_Index": 73.74660139100524,
+      "Waste_Generated_Tons": 853,
+      "Air_Pollution_Level": 65.80848303030488
+    },
+    {
+      "Year": 2015,
+      "Location": "Nashik",
+      "Water_Quality_Index": 32.14399467566816,
+      "Waste_Generated_Tons": 1654,
+      "Air_Pollution_Level": 97.34818512094392
+    },
+    {
+      "Year": 1982,
+      "Location": "Ujjain",
+      "Water_Quality_Index": 63.6807921282478,
+      "Waste_Generated_Tons": 4100,
+      "Air_Pollution_Level": 105.2335042438582
+    },
+    {
+      "Year": 1994,
+      "Location": "Ujjain",
+      "Water_Quality_Index": 65.80534790070953,
+      "Waste_Generated_Tons": 3946,
+      "Air_Pollution_Level": 123.9063956633512
+    },
+    {
+      "Year": 2004,
+      "Location": "Ujjain",
+      "Water_Quality_Index": 52.50497555684262,
+      "Waste_Generated_Tons": 3482,
+      "Air_Pollution_Level": 130.4133150458667
+    },
+    {
+      "Year": 2016,
+      "Location": "Ujjain",
+      "Water_Quality_Index": 39.61567040425815,
+      "Waste_Generated_Tons": 4753,
+      "Air_Pollution_Level": 121.7346334242409
+    }
+  ],
+  "media": [
+    {
+      "Year": 1989,
+      "Location": "Prayagraj",
+      "International_Media_Coverage": 82,
+      "Celebrity_Visits": 1
+    },
+    {
+      "Year": 2001,
+      "Location": "Prayagraj",
+      "International_Media_Coverage": 53,
+      "Celebrity_Visits": 2
+    },
+    {
+      "Year": 2013,
+      "Location": "Prayagraj",
+      "International_Media_Coverage": 29,
+      "Celebrity_Visits": 0
+    },
+    {
+      "Year": 2025,
+      "Location": "Prayagraj",
+      "International_Media_Coverage": 81,
+      "Celebrity_Visits": 3
+    },
+    {
+      "Year": 1986,
+      "Location": "Haridwar",
+      "International_Media_Coverage": 91,
+      "Celebrity_Visits": 5
+    },
+    {
+      "Year": 1998,
+      "Location": "Haridwar",
+      "International_Media_Coverage": 98,
+      "Celebrity_Visits": 2
+    },
+    {
+      "Year": 2010,
+      "Location": "Haridwar",
+      "International_Media_Coverage": 78,
+      "Celebrity_Visits": 9
+    },
+    {
+      "Year": 2022,
+      "Location": "Haridwar",
+      "International_Media_Coverage": 30,
+      "Celebrity_Visits": 4
+    },
+    {
+      "Year": 1980,
+      "Location": "Nashik",
+      "International_Media_Coverage": 12,
+      "Celebrity_Visits": 2
+    },
+    {
+      "Year": 1992,
+      "Location": "Nashik",
+      "International_Media_Coverage": 52,
+      "Celebrity_Visits": 2
+    },
+    {
+      "Year": 2003,
+      "Location": "Nashik",
+      "International_Media_Coverage": 62,
+      "Celebrity_Visits": 2
+    },
+    {
+      "Year": 2015,
+      "Location": "Nashik",
+      "International_Media_Coverage": 96,
+      "Celebrity_Visits": 3
+    },
+    {
+      "Year": 1982,
+      "Location": "Ujjain",
+      "International_Media_Coverage": 61,
+      "Celebrity_Visits": 0
+    },
+    {
+      "Year": 1994,
+      "Location": "Ujjain",
+      "International_Media_Coverage": 72,
+      "Celebrity_Visits": 6
+    },
+    {
+      "Year": 2004,
+      "Location": "Ujjain",
+      "International_Media_Coverage": 42,
+      "Celebrity_Visits": 4
+    },
+    {
+      "Year": 2016,
+      "Location": "Ujjain",
+      "International_Media_Coverage": 42,
+      "Celebrity_Visits": 5
+    }
+  ],
+  "safety": [
+    {
+      "Year": 1989,
+      "Location": "Prayagraj",
+      "Crime_Incidents": 475,
+      "Public_Transport_Availability": 3
+    },
+    {
+      "Year": 2001,
+      "Location": "Prayagraj",
+      "Crime_Incidents": 485,
+      "Public_Transport_Availability": 1
+    },
+    {
+      "Year": 2013,
+      "Location": "Prayagraj",
+      "Crime_Incidents": 459,
+      "Public_Transport_Availability": 8
+    },
+    {
+      "Year": 2025,
+      "Location": "Prayagraj",
+      "Crime_Incidents": 461,
+      "Public_Transport_Availability": 5
+    },
+    {
+      "Year": 1986,
+      "Location": "Haridwar",
+      "Crime_Incidents": 445,
+      "Public_Transport_Availability": 6
+    },
+    {
+      "Year": 1998,
+      "Location": "Haridwar",
+      "Crime_Incidents": 202,
+      "Public_Transport_Availability": 2
+    },
+    {
+      "Year": 2010,
+      "Location": "Haridwar",
+      "Crime_Incidents": 260,
+      "Public_Transport_Availability": 4
+    },
+    {
+      "Year": 2022,
+      "Location": "Haridwar",
+      "Crime_Incidents": 210,
+      "Public_Transport_Availability": 6
+    },
+    {
+      "Year": 1980,
+      "Location": "Nashik",
+      "Crime_Incidents": 195,
+      "Public_Transport_Availability": 7
+    },
+    {
+      "Year": 1992,
+      "Location": "Nashik",
+      "Crime_Incidents": 419,
+      "Public_Transport_Availability": 9
+    },
+    {
+      "Year": 2003,
+      "Location": "Nashik",
+      "Crime_Incidents": 169,
+      "Public_Transport_Availability": 9
+    },
+    {
+      "Year": 2015,
+      "Location": "Nashik",
+      "Crime_Incidents": 494,
+      "Public_Transport_Availability": 9
+    },
+    {
+      "Year": 1982,
+      "Location": "Ujjain",
+      "Crime_Incidents": 127,
+      "Public_Transport_Availability": 9
+    },
+    {
+      "Year": 1994,
+      "Location": "Ujjain",
+      "Crime_Incidents": 463,
+      "Public_Transport_Availability": 5
+    },
+    {
+      "Year": 2004,
+      "Location": "Ujjain",
+      "Crime_Incidents": 124,
+      "Public_Transport_Availability": 2
+    },
+    {
+      "Year": 2016,
+      "Location": "Ujjain",
+      "Crime_Incidents": 474,
+      "Public_Transport_Availability": 8
+    }
+  ],
+  "sentiment": [
+    {
+      "Year": 1989,
+      "Location": "Prayagraj",
+      "Positive_Sentiment_Percentage": 52.12414455211947,
+      "Negative_Sentiment_Percentage": 43.7230811656215
+    },
+    {
+      "Year": 2001,
+      "Location": "Prayagraj",
+      "Positive_Sentiment_Percentage": 75.04692958492564,
+      "Negative_Sentiment_Percentage": 39.57983185545324
+    },
+    {
+      "Year": 2013,
+      "Location": "Prayagraj",
+      "Positive_Sentiment_Percentage": 50.47760462641072,
+      "Negative_Sentiment_Percentage": 43.73909638355942
+    },
+    {
+      "Year": 2025,
+      "Location": "Prayagraj",
+      "Positive_Sentiment_Percentage": 84.33773467783001,
+      "Negative_Sentiment_Percentage": 20.49340031280337
+    },
+    {
+      "Year": 1986,
+      "Location": "Haridwar",
+      "Positive_Sentiment_Percentage": 53.97319614375243,
+      "Negative_Sentiment_Percentage": 43.79073769898853
+    },
+    {
+      "Year": 1998,
+      "Location": "Haridwar",
+      "Positive_Sentiment_Percentage": 85.3990306669611,
+      "Negative_Sentiment_Percentage": 42.94285341230155
+    },
+    {
+      "Year": 2010,
+      "Location": "Haridwar",
+      "Positive_Sentiment_Percentage": 63.84109452119046,
+      "Negative_Sentiment_Percentage": 49.69917620853331
+    },
+    {
+      "Year": 2022,
+      "Location": "Haridwar",
+      "Positive_Sentiment_Percentage": 67.04657058100024,
+      "Negative_Sentiment_Percentage": 8.741276813826303
+    },
+    {
+      "Year": 1980,
+      "Location": "Nashik",
+      "Positive_Sentiment_Percentage": 74.87708948989348,
+      "Negative_Sentiment_Percentage": 32.69508248824721
+    },
+    {
+      "Year": 1992,
+      "Location": "Nashik",
+      "Positive_Sentiment_Percentage": 50.64436305325911,
+      "Negative_Sentiment_Percentage": 24.82474728861468
+    },
+    {
+      "Year": 2003,
+      "Location": "Nashik",
+      "Positive_Sentiment_Percentage": 70.30658886194078,
+      "Negative_Sentiment_Percentage": 16.26581263866067
+    },
+    {
+      "Year": 2015,
+      "Location": "Nashik",
+      "Positive_Sentiment_Percentage": 63.54067438966706,
+      "Negative_Sentiment_Percentage": 45.6326900220775
+    },
+    {
+      "Year": 1982,
+      "Location": "Ujjain",
+      "Positive_Sentiment_Percentage": 69.73861983724083,
+      "Negative_Sentiment_Percentage": 21.23987969457779
+    },
+    {
+      "Year": 1994,
+      "Location": "Ujjain",
+      "Positive_Sentiment_Percentage": 60.96139092504659,
+      "Negative_Sentiment_Percentage": 19.93719400544891
+    },
+    {
+      "Year": 2004,
+      "Location": "Ujjain",
+      "Positive_Sentiment_Percentage": 71.6469279396695,
+      "Negative_Sentiment_Percentage": 20.1243062493847
+    },
+    {
+      "Year": 2016,
+      "Location": "Ujjain",
+      "Positive_Sentiment_Percentage": 87.6676193668853,
+      "Negative_Sentiment_Percentage": 33.6246028974073
+    }
+  ]
+}
